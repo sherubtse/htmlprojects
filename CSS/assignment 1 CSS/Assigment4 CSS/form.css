@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to left,rgba(15,0,0,0.3),rgba(20,0,0,0.5)), url('back.jpg')
+}
+nav{
+    border: 2px solid black;
+    background-color: gray;
+    height: 100px;
+    width: 100%;
+    padding: 0%;
+    margin:0%;
+}
+#cen1{
+    text-align: center;
+    text-decoration: none;
+    color:white;
+
+}
+img{
+    height:95px;
+     width:200px ;
+}

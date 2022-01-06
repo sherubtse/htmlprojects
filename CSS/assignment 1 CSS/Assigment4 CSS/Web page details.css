@@ -1,0 +1,49 @@
+body{
+     background-image: linear-gradient(to left,rgba(15,0,0,0.3),rgba(20,0,0,0.5));
+}
+nav{
+    border: 2px solid; 
+    background-color:skyblue;
+    width: 100%;
+    height: 170px;
+}
+cen1{
+     text-align:center" ;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+img{
+    height:150px;
+    width:250px;
+}
+cent2{
+     background-color: skyblue;
+    border:8px;
+}
+h1{
+     color: green ;
+}
+table{
+     background-color: orange; 
+    color: red;
+    border=5px ;
+    cellspacing=0px;
+    height:400px;
+    width:100%
+}
+caption{
+    background-color:skyblue;
+    height:0px;
+}
+thread{
+    background-color: lightgreen;
+    
+}
+div{
+      border: 2px solid orange;
+    color: black;
+    background-color: skyblue;
+    text-align: :center;
+}
