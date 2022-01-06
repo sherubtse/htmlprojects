@@ -1,0 +1,56 @@
+a{
+    color: black;
+    text-decoration: none;
+
+
+}
+body{
+    background-color: gray;
+}
+#one{
+    background-color: olivedrab;
+    border: 2px solid white;
+    height: 20px; 
+    width: 100%;
+    margin: -1px;
+    padding: 40px;
+    text-align: center;
+    word-spacing: 120px;
+}
+nav{
+    padding:20px;
+     margin-left:120px;
+     word-spacing: 35px;
+}
+ a{
+    text-align:justify;
+     padding-bottom:-100px;
+     margin-bottom:-200px;
+     
+ }
+ #name{
+    background-color:aquamarine ;
+    border: 3px solid white ;
+    height: 600px;
+     width: 15%;
+      margin-top:3px;
+      text-align: center;
+    padding:0px; 
+ }
+ #tem{
+    background-color: lightblue ;
+    border: 3px solid yellow ; 
+    height: 600px;
+     width: 84%;
+     float: right;
+    margin-top:-606px;
+     margin-right: -3px;
+ }
+
+img{
+    height:"600px";
+     width:"500px";
+     border: 5px solid black; 
+     box-shadow: 20px 20px 15px;
+     margin-left: 150px;
+}
